@@ -1,5 +1,3 @@
-1st program
-
 package main
 import {
     "fmt"
